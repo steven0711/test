@@ -1,0 +1,17 @@
+
+[
+  {
+    "name":"iphone4",
+    "price":"5000"
+  },
+  {
+    "name":"iphone5",
+    "price":"10000"
+  },
+  {
+    "name":"iphone6",
+    "price":"20000"
+  }
+
+
+]
